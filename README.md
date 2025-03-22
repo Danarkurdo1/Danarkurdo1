@@ -1,4 +1,6 @@
 ### Hi there, I'm <a href="https://facebook.com/danar.kurdo.1" target="_blank">Danar Kurdo</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Founder & CEO Max agency, [Max agency](https://maxagency.krd/)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danarkurdo1)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/danarkurdo1)
@@ -10,7 +12,6 @@ I'm a full-stack developer, entrepreneur, and event organizer from Kurdistan, Ir
 
  💼 any freelance work? do reach, [email](mailto:danarkurdo@maxagency.com) :)
  
- Max agency, [Max agency](https://maxagency.krd/)
  
  **Languages and tools:**  
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,nodejs,express,git,github,mongodb,mysql,heroku,cpp,react,&perline=7)](https://skillicons.dev)
