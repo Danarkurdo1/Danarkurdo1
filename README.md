@@ -6,9 +6,9 @@
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
-I'm a passionate self-taught FrontEnd developer from Kurdistan Iraq. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I'm a full-stack developer, entrepreneur, and event organizer from Kurdistan, Iraq. With expertise in JavaScript, Node.js, and web technologies, I build scalable and high-performance applications. As the founder of Max Agency, I lead projects in social media, branding, and digital solutions. Passionate about AI, fintech, and community-driven initiatives, I thrive on turning ideas into impactful digital experiences.
 
- 💼 any freelance work? do reach, [email](mailto:danarkurdo77@gmail.com) :)
+ 💼 any freelance work? do reach, [email](mailto:danarkurdo@maxagency.com) :)
  
  **Languages and tools:**  
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,nodejs,express,git,github,mongodb,mysql,heroku,cpp,react,&perline=7)](https://skillicons.dev)
