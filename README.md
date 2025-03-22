@@ -9,6 +9,7 @@
 I'm a full-stack developer, entrepreneur, and event organizer from Kurdistan, Iraq. With expertise in JavaScript, Node.js, and web technologies, I build scalable and high-performance applications. As the founder of Max Agency, I lead projects in social media, branding, and digital solutions. Passionate about AI, fintech, and community-driven initiatives, I thrive on turning ideas into impactful digital experiences.
 
  💼 any freelance work? do reach, [email](mailto:danarkurdo@maxagency.com) :)
+ 💼 Max agency, [website](https://maxagency.krd/)
  
  **Languages and tools:**  
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,nodejs,express,git,github,mongodb,mysql,heroku,cpp,react,&perline=7)](https://skillicons.dev)
