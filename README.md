@@ -10,7 +10,7 @@ I'm a full-stack developer, entrepreneur, and event organizer from Kurdistan, Ir
 
  💼 any freelance work? do reach, [email](mailto:danarkurdo@maxagency.com) :)
  
- Max agency, [website](https://maxagency.krd/)
+ Max agency, [Max agency](https://maxagency.krd/)
  
  **Languages and tools:**  
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,nodejs,express,git,github,mongodb,mysql,heroku,cpp,react,&perline=7)](https://skillicons.dev)
